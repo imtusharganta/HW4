@@ -21,7 +21,7 @@ public:
 
 private:
 };
-//------------------------BUBBLESORT HI THERE, sending this to the mac----------------------------------
+//------------------------BUBBLESORT HI THERE, sending this back to the pc----------------------------------
 /**
  * This is BubbleSort
  * Can sort from a given range passing in from the first index to the last index.
