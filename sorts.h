@@ -21,7 +21,7 @@ public:
 
 private:
 };
-//------------------------BUBBLESORT HI HI----------------------------------
+//------------------------BUBBLESORT HI THERE----------------------------------
 /**
  * This is BubbleSort
  * Can sort from a given range passing in from the first index to the last index.
